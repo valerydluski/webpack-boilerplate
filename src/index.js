@@ -1,4 +1,4 @@
-import example from './js/example';
+import { example } from './js/example';
 import testSvg from './assets/images/test.svg';
 import './styles/index.scss';
 

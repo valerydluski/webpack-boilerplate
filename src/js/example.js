@@ -1,3 +1,1 @@
-const example = () => 'test string';
-
-export default example;
+export const example = () => 'test string';

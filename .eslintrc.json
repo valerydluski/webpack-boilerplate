@@ -8,6 +8,7 @@
         "code": 100
       }
     ],
+    "import/prefer-default-export": "off",
     "prefer-template": "off",
     "indent": ["error", 4],
     "object-curly-spacing": ["error", "always"],
